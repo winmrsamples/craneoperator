@@ -1,0 +1,64 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Rope
+  - Hook
+  - Bollard
+  - FinishZone
+  - Weight
+  - Ball
+  - StartingPosition
+  - BollardContainer
+  - GroundHeight
+  - SphereToSpawn
+  - HololensOnly
+  - HMDUOnly
+  - HMDULobbyScreen
+  - PlaceableObject
+  - PlaceableDummy
+  - HololensLobbyScreen
+  - PickUpInstructions
+  - WeightPickUpZone
+  - CraneCockpit
+  - HookMeshes
+  - WeightPickUpIndicator
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Hook
+  - CloudsToy
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
