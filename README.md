@@ -1,4 +1,4 @@
-# Crane Operator Universal App.
+# Crane Operator Universal App
 
 This sample illustrates for emerging Mixed Reality headsets can be used for virtual training. 
 
